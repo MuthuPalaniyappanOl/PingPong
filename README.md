@@ -1,6 +1,10 @@
 # PingPong
 
     A Ping Pong Game Devoloped In C++ Using Opengl And Glut.
+    
+# How To Install
+
+    Openg The Ping Pong Folder You will find Setup file Download It And Then Install it 
 
 # Usage
 
