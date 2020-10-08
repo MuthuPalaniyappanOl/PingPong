@@ -1,6 +1,6 @@
 # PingPong
 
-    A Ping Pong Game Devoloped In C++ Using Opengl And Glut.
+    A Ping Pong Game Devoloped In C++ Using Opengl And Free Glut.
     
 # How To Install
 
@@ -16,7 +16,7 @@
 
 # License
 
-    Open-source.
+    Open-source
 
 # Disclaimer
 
@@ -28,4 +28,4 @@
 
 # From Programmer
 
-    Thanks For Downloading The Game.
+    Thanks For Downloading The Game
